@@ -25,6 +25,11 @@ The goal of this project is to set up a Puppet master and a Puppet agent on Amaz
     - Configure it similarly with the appropriate IAM role and security group.
     - SSH into the instance and install Puppet agent.
 
+```
+sudo yum update -y
+sudo -i passwd
+```
+
 ### Step 2: Install and Configure Puppet
 
 1. **On Puppet Master Instance**:
