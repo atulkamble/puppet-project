@@ -1,4 +1,4 @@
-Project on Puppet for DevOps on Amazon EC2
+## Project on Puppet for DevOps on Amazon EC2
 - setting up an environment where you can manage configurations and automate deployments.
 
 Here's a step-by-step guide to create a project:
